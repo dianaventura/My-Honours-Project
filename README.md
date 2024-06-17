@@ -1,7 +1,8 @@
 
-## Project Overview 🔋
-This project focuses on enhancing energy efficiency in data centres using the MIT Supercloud Dataset. By developing an LSTM model, I aim to predict workload patterns and make informed decisions to reduce energy waste. This is crucial in an era where the cloud's carbon footprint is rapidly growing.
+## The Optimisation of Data Centres using the MIT Supercloud Dataset🔋
+My project focuses on enhancing energy efficiency in data centres using the MIT Supercloud Dataset. By developing an LSTM model, I aim to predict workload patterns and make informed decisions to reduce energy waste. This is crucial in an era where the cloud's carbon footprint is rapidly growing.
 
+**This project was selected as a finalist at the Ada Lovelace Colloquium 2024**
 ![Project Poster](final%20poster%20submission%20(Double-Sided%20Poster%20(A3%20Landscape)).png)
 
 ## Key Highlights
